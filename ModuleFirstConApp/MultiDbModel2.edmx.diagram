@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="00d67f36f2e94a5ca49c7f0bc8a64e05" Name="Diagram1" >
+        <EntityTypeShape EntityType="MultiDbModel2.Member" Width="1.5" PointX="4" PointY="0.75" />
+        <EntityTypeShape EntityType="MultiDbModel2.Game" Width="1.5" PointX="7" PointY="0.875" />
+        <AssociationConnector Association="MultiDbModel2.MemberGame" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
